@@ -1,0 +1,33 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  background: $white;
+  font-family: 'Montserrat', sans-serif;
+  overflow-x: hidden;
+}
+
+a{
+  color: $blue;
+}
+
+h1{
+  font-size: $font-size-lg;
+  color: $blue;
+  line-height: $line-height-md;
+}
+
+h2{
+  font-size: $font-size-md;
+  color: $blue;
+  line-height: $line-height-md;
+}
+
+p{
+  color: $grey;
+}
+
+span{
+  color: $yellow;
+}
